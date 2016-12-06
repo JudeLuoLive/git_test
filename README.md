@@ -1,1 +1,1 @@
-# git_test
+This is Jude's first git project!
